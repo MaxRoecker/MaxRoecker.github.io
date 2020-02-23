@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Allow: /drafts/
+
+Sitemap: https://maxroecker.github.io/sitemap.xml
