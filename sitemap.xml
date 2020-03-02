@@ -2,58 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>/blog/hello-world/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/blog/porque-voce-deveria-aprender-javascript/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/blog/javascript-basico-1/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/blog/javascript-basico-2/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/blog/javascript-basico-3/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/blog/introducao-ao-node.js/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/blog/javascript-basico-4/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/blog/javascript-basico-5/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/blog/javascript-basico-6/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
+  </url>
+  <url>
+    <loc>/blog/javascript-intermediario-1/</loc>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/blog/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/now/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
   <url>
     <loc>/tags/post/</loc>
-    <lastmod>2020-03-02T00:50:27-03:00</lastmod>
+    <lastmod>2020-03-02T17:14:53-03:00</lastmod>
   </url>
 </urlset>
