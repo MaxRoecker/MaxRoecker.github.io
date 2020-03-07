@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1100"
+   height="850.00006"
+   viewBox="0 0 1100 850.00006"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="stack.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="480.34697"
+     inkscape:cy="8.684964"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     borderlayer="false"
+     inkscape:window-width="960"
+     inkscape:window-height="1020"
+     inkscape:window-x="960"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-411.57935,-161.97331)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4959"
+       width="1100"
+       height="850.00006"
+       x="411.57935"
+       y="161.97331" />
+    <g
+       id="g5884"
+       transform="translate(-50)">
+      <g
+         transform="translate(-1.5258789e-5)"
+         id="g5415">
+        <rect
+           ry="0"
+           rx="0"
+           y="466.03735"
+           x="560.9834"
+           height="48.487324"
+           width="239.40616"
+           id="rect4511"
+           style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text4515"
+           y="500.48706"
+           x="679.79785"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+             y="500.48706"
+             x="679.79785"
+             id="tspan4513"
+             sodipodi:role="line">PILHA</tspan></text>
+        <rect
+           y="419.0856"
+           x="585.98474"
+           height="44.951786"
+           width="189.40361"
+           id="rect4517"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="681.1582"
+           y="451.75385"
+           id="text4521"><tspan
+             sodipodi:role="line"
+             id="tspan4519"
+             x="681.1582"
+             y="451.75385"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">AVG</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4523"
+           width="189.40361"
+           height="44.951786"
+           x="585.98474"
+           y="374.13379" />
+        <text
+           id="text4527"
+           y="406.80206"
+           x="681.12402"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="406.80206"
+             x="681.12402"
+             id="tspan4525"
+             sodipodi:role="line">X = 4</tspan></text>
+        <rect
+           y="329.18201"
+           x="585.98474"
+           height="44.951786"
+           width="189.40361"
+           id="rect4529"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="681.1582"
+           y="361.85028"
+           id="text4533"><tspan
+             sodipodi:role="line"
+             id="tspan4531"
+             x="681.1582"
+             y="361.85028"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">Y = 5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="656.61743"
+           y="543.75922"
+           id="text4937"><tspan
+             sodipodi:role="line"
+             id="tspan4935"
+             x="656.61743"
+             y="543.75922"
+             style="font-size:26.66666603px;fill:#4d4d4d;stroke-width:0.26458332">(1)</tspan></text>
+      </g>
+      <g
+         transform="translate(-1.5258789e-5)"
+         id="g5440">
+        <rect
+           style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4537"
+           width="239.40616"
+           height="48.487324"
+           x="891.87628"
+           y="466.03735"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1010.6907"
+           y="500.48709"
+           id="text4541"><tspan
+             sodipodi:role="line"
+             id="tspan4539"
+             x="1010.6907"
+             y="500.48709"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332">PILHA</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4543"
+           width="189.40361"
+           height="44.951786"
+           x="916.87769"
+           y="419.0856" />
+        <text
+           id="text4547"
+           y="451.75388"
+           x="1012.0511"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="451.75388"
+             x="1012.0511"
+             id="tspan4545"
+             sodipodi:role="line">AVG</tspan></text>
+        <rect
+           y="374.13382"
+           x="916.87769"
+           height="44.951786"
+           width="189.40361"
+           id="rect4549"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1012.017"
+           y="406.80206"
+           id="text4553"><tspan
+             sodipodi:role="line"
+             id="tspan4551"
+             x="1012.017"
+             y="406.80206"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">X = 4</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4555"
+           width="189.40361"
+           height="44.951786"
+           x="916.87769"
+           y="329.18201" />
+        <text
+           id="text4559"
+           y="361.85028"
+           x="1012.0511"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="361.85028"
+             x="1012.0511"
+             id="tspan4557"
+             sodipodi:role="line">Y = 5</tspan></text>
+        <rect
+           y="284.23022"
+           x="916.87769"
+           height="44.951786"
+           width="189.40361"
+           id="rect4561"
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1012.0511"
+           y="316.8985"
+           id="text4565"><tspan
+             sodipodi:role="line"
+             id="tspan4563"
+             x="1012.0511"
+             y="316.8985"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">ADD</tspan></text>
+        <rect
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4567"
+           width="189.40361"
+           height="44.951786"
+           x="916.87769"
+           y="239.2785" />
+        <text
+           id="text4571"
+           y="271.94675"
+           x="1012.017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="271.94675"
+             x="1012.017"
+             id="tspan4569"
+             sodipodi:role="line">X = 4</tspan></text>
+        <rect
+           y="194.32669"
+           x="916.87769"
+           height="44.951786"
+           width="189.40361"
+           id="rect4573"
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1012.0511"
+           y="226.99495"
+           id="text4577"><tspan
+             sodipodi:role="line"
+             id="tspan4575"
+             x="1012.0511"
+             y="226.99495"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">Y = 5</tspan></text>
+        <text
+           id="text4941"
+           y="543.75897"
+           x="987.51025"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:26.66666603px;fill:#4d4d4d;stroke-width:0.26458332"
+             y="543.75897"
+             x="987.51025"
+             id="tspan4939"
+             sodipodi:role="line">(2)</tspan></text>
+      </g>
+      <g
+         transform="translate(-1.5258789e-5)"
+         id="g5459">
+        <rect
+           ry="0"
+           rx="0"
+           y="466.03735"
+           x="1222.7692"
+           height="48.487324"
+           width="239.40616"
+           id="rect4579"
+           style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text4583"
+           y="500.48709"
+           x="1341.5835"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+             y="500.48709"
+             x="1341.5835"
+             id="tspan4581"
+             sodipodi:role="line">PILHA</tspan></text>
+        <rect
+           y="419.0856"
+           x="1247.7704"
+           height="44.951786"
+           width="189.40361"
+           id="rect4585"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1342.944"
+           y="451.75388"
+           id="text4589"><tspan
+             sodipodi:role="line"
+             id="tspan4587"
+             x="1342.944"
+             y="451.75388"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">AVG</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4591"
+           width="189.40361"
+           height="44.951786"
+           x="1247.7704"
+           y="374.13382" />
+        <text
+           id="text4595"
+           y="406.80206"
+           x="1342.9098"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="406.80206"
+             x="1342.9098"
+             id="tspan4593"
+             sodipodi:role="line">X = 4</tspan></text>
+        <rect
+           y="329.18201"
+           x="1247.7704"
+           height="44.951786"
+           width="189.40361"
+           id="rect4597"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1342.944"
+           y="361.85028"
+           id="text4601"><tspan
+             sodipodi:role="line"
+             id="tspan4599"
+             x="1342.944"
+             y="361.85028"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">Y = 5</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4621"
+           width="189.40361"
+           height="44.951786"
+           x="1247.7704"
+           y="284.23022" />
+        <text
+           id="text4625"
+           y="316.8985"
+           x="1342.944"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="316.8985"
+             x="1342.944"
+             id="tspan4623"
+             sodipodi:role="line">SUM = 9</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1318.4033"
+           y="543.75897"
+           id="text4945"><tspan
+             sodipodi:role="line"
+             id="tspan4943"
+             x="1318.4033"
+             y="543.75897"
+             style="font-size:26.66666603px;fill:#4d4d4d;stroke-width:0.26458332">(3)</tspan></text>
+      </g>
+      <g
+         transform="translate(-1.5258789e-5)"
+         id="g5487">
+        <rect
+           style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4627"
+           width="239.40616"
+           height="48.487324"
+           x="560.9834"
+           y="899.38263"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="679.79779"
+           y="933.8324"
+           id="text4631"><tspan
+             sodipodi:role="line"
+             id="tspan4629"
+             x="679.79779"
+             y="933.8324"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332">PILHA</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4633"
+           width="189.40361"
+           height="44.951786"
+           x="585.98468"
+           y="852.43091" />
+        <text
+           id="text4637"
+           y="885.09912"
+           x="681.15826"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="885.09912"
+             x="681.15826"
+             id="tspan4635"
+             sodipodi:role="line">AVG</tspan></text>
+        <rect
+           y="807.47913"
+           x="585.98468"
+           height="44.951786"
+           width="189.40361"
+           id="rect4639"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="681.12396"
+           y="840.14734"
+           id="text4643"><tspan
+             sodipodi:role="line"
+             id="tspan4641"
+             x="681.12396"
+             y="840.14734"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">X = 4</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4645"
+           width="189.40361"
+           height="44.951786"
+           x="585.98468"
+           y="762.52734" />
+        <text
+           id="text4649"
+           y="795.19556"
+           x="681.15826"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="795.19556"
+             x="681.15826"
+             id="tspan4647"
+             sodipodi:role="line">Y = 5</tspan></text>
+        <rect
+           y="717.57562"
+           x="585.98468"
+           height="44.951786"
+           width="189.40361"
+           id="rect4651"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="681.15826"
+           y="750.24377"
+           id="text4655"><tspan
+             sodipodi:role="line"
+             id="tspan4653"
+             x="681.15826"
+             y="750.24377"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">SUM = 9</tspan></text>
+        <rect
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4671"
+           width="189.40361"
+           height="44.951786"
+           x="585.98468"
+           y="672.62378" />
+        <text
+           id="text4675"
+           y="705.29199"
+           x="681.15814"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="705.29199"
+             x="681.15814"
+             id="tspan4673"
+             sodipodi:role="line">DIV</tspan></text>
+        <rect
+           y="627.672"
+           x="585.98468"
+           height="44.951786"
+           width="189.40361"
+           id="rect4677"
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="681.12396"
+           y="660.34021"
+           id="text4681"><tspan
+             sodipodi:role="line"
+             id="tspan4679"
+             x="681.12396"
+             y="660.34021"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">X = 9</tspan></text>
+        <rect
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4683"
+           width="189.40361"
+           height="44.951786"
+           x="585.98468"
+           y="582.72021" />
+        <text
+           id="text4687"
+           y="615.38843"
+           x="681.15814"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="615.38843"
+             x="681.15814"
+             id="tspan4685"
+             sodipodi:role="line">Y = 2</tspan></text>
+        <text
+           id="text4949"
+           y="977.10437"
+           x="656.61743"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:26.66666603px;fill:#4d4d4d;stroke-width:0.26458332"
+             y="977.10437"
+             x="656.61743"
+             id="tspan4947"
+             sodipodi:role="line">(4)</tspan></text>
+      </g>
+      <g
+         transform="translate(-1.5258789e-5)"
+         id="g5509">
+        <rect
+           style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4689"
+           width="239.40616"
+           height="48.487324"
+           x="891.87628"
+           y="899.38263"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1010.6906"
+           y="933.8324"
+           id="text4693"><tspan
+             sodipodi:role="line"
+             id="tspan4691"
+             x="1010.6906"
+             y="933.8324"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332">PILHA</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4695"
+           width="189.40361"
+           height="44.951786"
+           x="916.87756"
+           y="852.43091" />
+        <text
+           id="text4699"
+           y="885.09912"
+           x="1012.0511"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="885.09912"
+             x="1012.0511"
+             id="tspan4697"
+             sodipodi:role="line">AVG</tspan></text>
+        <rect
+           y="807.47913"
+           x="916.87756"
+           height="44.951786"
+           width="189.40361"
+           id="rect4701"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1012.0168"
+           y="840.14734"
+           id="text4705"><tspan
+             sodipodi:role="line"
+             id="tspan4703"
+             x="1012.0168"
+             y="840.14734"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">X = 4</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4707"
+           width="189.40361"
+           height="44.951786"
+           x="916.87756"
+           y="762.52734" />
+        <text
+           id="text4711"
+           y="795.19556"
+           x="1012.0511"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="795.19556"
+             x="1012.0511"
+             id="tspan4709"
+             sodipodi:role="line">Y = 5</tspan></text>
+        <rect
+           y="717.57562"
+           x="916.87756"
+           height="44.951786"
+           width="189.40361"
+           id="rect4713"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1012.0511"
+           y="750.24384"
+           id="text4717"><tspan
+             sodipodi:role="line"
+             id="tspan4715"
+             x="1012.0511"
+             y="750.24384"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332">SUM = 9</tspan></text>
+        <rect
+           style="fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4719"
+           width="189.40361"
+           height="44.951786"
+           x="916.87756"
+           y="672.62384" />
+        <text
+           id="text4723"
+           y="705.29211"
+           x="1012.0511"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+             y="705.29211"
+             x="1012.0511"
+             id="tspan4721"
+             sodipodi:role="line">~ = 4.5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="987.51025"
+           y="977.10413"
+           id="text4953"><tspan
+             sodipodi:role="line"
+             id="tspan4951"
+             x="987.51025"
+             y="977.10413"
+             style="font-size:26.66666603px;fill:#4d4d4d;stroke-width:0.26458332">(5)</tspan></text>
+      </g>
+      <g
+         transform="translate(-1.5258789e-5)"
+         id="g5519">
+        <rect
+           ry="0"
+           rx="0"
+           y="899.38263"
+           x="1222.7692"
+           height="48.487324"
+           width="239.40616"
+           id="rect4725"
+           style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text4729"
+           y="933.8324"
+           x="1341.5836"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+             y="933.8324"
+             x="1341.5836"
+             id="tspan4727"
+             sodipodi:role="line">PILHA</tspan></text>
+        <rect
+           y="852.43079"
+           x="1247.7704"
+           height="44.951786"
+           width="189.40361"
+           id="rect4821"
+           style="fill:#b3b3b3;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.56563568px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="1342.944"
+           y="885.09912"
+           id="text4825"><tspan
+             sodipodi:role="line"
+             id="tspan4823"
+             x="1342.944"
+             y="885.09912"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#666666;stroke-width:0.26458332">~ = 4.5</tspan></text>
+        <text
+           id="text4957"
+           y="977.10413"
+           x="1318.4033"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99999905px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:26.66666603px;fill:#4d4d4d;stroke-width:0.26458332"
+             y="977.10413"
+             x="1318.4033"
+             id="tspan4955"
+             sodipodi:role="line">(6)</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
