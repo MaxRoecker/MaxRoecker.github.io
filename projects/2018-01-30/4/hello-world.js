@@ -7,7 +7,7 @@ export class HelloWorld extends HTMLElement {
   connectedCallback() {
     this.shadowRoot.innerHTML = `
       <style>
-        h1 { color: red; }
+        h1 { color: blue; }
       </style>
       <h1>Hello, World!</h1>
     `;
