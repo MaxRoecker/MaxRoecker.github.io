@@ -1,0 +1,33 @@
+@page {
+  margin: 1cm;
+}
+
+* {
+  -webkit-print-color-adjust: exact !important; /*Chrome, Safari */
+  color-adjust: exact !important; /*Firefox*/
+}
+
+html {
+  background-color: transparent;
+  font-size: 12pt;
+}
+
+body {
+  box-shadow: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+}
+
+table {
+  page-break-inside: avoid;
+}
+
+.columns__col {
+  width: calc(50% - 1.5rem);
+}
+
+.print-button {
+  display: none;
+}
